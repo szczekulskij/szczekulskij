@@ -14,6 +14,7 @@ My name is Jan Szczekulsi. I currently live in San Diego, USA!
 
 #### Top languages <sub><sub><sup>*Which I use outside of work<sub><sup><sub>
 <br>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szczekulskij&theme=nord&count_private=true&hide=Jupyter%20Notebook)
 
 [github]: https://github.com/diogotcorreia
