@@ -4,10 +4,11 @@ My name is Jan Szczekulsi. I currently live in San Diego, USA!
 
 - 🏀 I love basketball
 - 🍲 Foodie 
-- 🌐 Visit my [website][https://jan-cs.com/]
-- 📜 Check out my [CV][https://jan-cs.com/resume.pdf]
+- 🌐 Visit my [website and portfolio][website]
+- 📜 Check out my [CV][cv]
 - 🎓 Studying Computer Science (AI specs) at UC San Diego
-- 💻 Check out my [Linkedin][https://www.linkedin.com/in/jan-szczekulski-272ab615a/]
+- 💻 Check out my [Linkedin][linkedin]
+
 
 ---
 
