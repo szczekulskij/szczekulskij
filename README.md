@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**szczekulskij/szczekulskij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jan Szczekulsi. I currently live in San Diego, USA!
 
-Here are some ideas to get you started:
+- 🏀 I love basketball
+- 🍲 Foodie 
+- 🌐 Visit my (website)[https://jan-cs.com/]
+- 📜 Check out my (CV)[https://jan-cs.com/resume.pdf]
+- 🎓 Studying Computer Science (AI specs) at UC San Diego
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogotcorreia&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogotcorreia&theme=nord&count_private=true&hide=Jupyter%20Notebook)
+
+[github]: https://github.com/diogotcorreia
+[website]: https://diogotc.com
+[cv]: https://cv.diogotc.com
