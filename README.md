@@ -5,7 +5,7 @@ My name is Jan Szczekulsi. I currently live in San Diego, USA!
 - 🏀 I love basketball
 - 🍲 Foodie
 - 🎓 Studied Computer Science & Mathematics at University of Liverpool
-- 🎓 Studying Computer Science (AI specs) at UC San Diego
+- 🎓 Studying Computer Science (AI specialization) at UC San Diego
 - 🌐 Visit my [website and portfolio][website]
 - 📜 Check out my [CV][cv]
 - 💻 Check out my [Linkedin][linkedin]
